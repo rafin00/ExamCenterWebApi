@@ -1,0 +1,14 @@
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSRepository\bin\Debug\PMSRepository.dll.config
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSRepository\bin\Debug\PMSRepository.dll
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSRepository\bin\Debug\PMSRepository.pdb
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSRepository\bin\Debug\EntityFramework.dll
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSRepository\bin\Debug\PMSEntity.dll
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSRepository\bin\Debug\PMSInterface.dll
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSRepository\bin\Debug\PMSEntity.pdb
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSRepository\bin\Debug\PMSInterface.pdb
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSRepository\bin\Debug\EntityFramework.xml
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSRepository\obj\Debug\PMSRepository.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSRepository\obj\Debug\PMSRepository.dll
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSRepository\obj\Debug\PMSRepository.pdb

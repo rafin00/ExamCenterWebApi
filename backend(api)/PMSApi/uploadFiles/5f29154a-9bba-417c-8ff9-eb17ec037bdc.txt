@@ -1,0 +1,11 @@
+
+@question: 1000-1=?
+@answer: 999
+@option: 9
+
+@option: 2
+@question: 5-9=?
+@answer: -4
+@option: 3
+@option: 4
+@option: -4

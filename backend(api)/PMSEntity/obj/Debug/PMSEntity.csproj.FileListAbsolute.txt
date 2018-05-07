@@ -1,0 +1,5 @@
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSEntity\bin\Debug\PMSEntity.dll
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSEntity\bin\Debug\PMSEntity.pdb
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSEntity\obj\Debug\PMSEntity.dll
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSEntity\obj\Debug\PMSEntity.pdb
+C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSEntity\obj\Debug\PMSEntity.csprojResolveAssemblyReference.cache
