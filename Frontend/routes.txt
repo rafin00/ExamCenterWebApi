@@ -1,0 +1,58 @@
+
+//For Admin
+All teachers - /teachers - Get
+One Teacher - /teachers/{UserName} - Get
+Edit Teacher - /teachers/{UserName} - Put
+Del Teacher - /teachers/{UserName} - Delete
+
+//For Teacher
+Events
+All Events - /{UserName}/events/ - Get
+Create Event - /{UserName}/events/ - Post
+Running Events - /{UserName}/events/running
+One Event - /{UserName}/events/{EvntId} - Get
+Edit Event - /{UserName}/events/{EvntId} - Put
+Del Event - /{UserName}/events/{EvntId} - Delete
+
+//Courses
+All Courses - /{UserName}/courses/
+Create Courses - /{UserName}/courses/ -Post
+One Courses - /{UserName}/courses/{CourseName} -Get
+Edit Courses - /{UserName}/courses/{CourseName} -Put
+Delete Courses - /{UserName}/courses/{CourseName} -Delete
+//question
+
+
+//Course Questions
+All Question - /{UserName}/courses/{CourseName}/questions - Get
+Create Question - /{UserName}/courses/{CourseName}/questions -Post
+One Question - /{UserName}/courses/{CourseName}/questions/{QuestionId} -Get
+Edit Question - /{UserName}/courses/{CourseName}/questions/{QuestionId} -Put
+Delete one Question - /{UserName}/courses/{CourseName}/questions/{QuestionId} -Delete
+
+// Question Options
+All option - /Options/{QuesionId}/ Get
+Create Option -/{UserName}/courses/{CourseName}/questions/{QuestionId}/options - Post
+
+
+//Evnt course
+All Course - /{UserName}/events/{EvntId}/courses
+Delete One Course - /{UserName}/events/{EvntId}/courses/{CourseName}
+One Course Questions - /{UserName}/events/{EvntId}/courses/{CourseName}/question
+delete One course One Question - /{UserName}/events/{EvntId}/courses/{CourseName}/quesion/{QuestionId} - Delete
+Add One Question - /{UserName}/events/{EvntId}/quesion/{QuestionId} - Post
+//Evnt Students
+All Students - /students - Get
+One student evnt - /{UserName}/events/{EvntId}/students/{StudentUserName} - Get
+Ass all student - /{UserName}/events/{EvntId}/students - Post
+unnAss all student - /{UserName}/events/{EvntId}/students - Delete
+Ass one student - /{UserName}/events/{EvntId}/students/{UserName} - Post
+UnAss one student - /{UserName}/events/{EvntId}/students/{UserName} - Delete
+
+//Student
+//
+Answer
+Edit Answer - /{UserName}/events/{EvntId}/questions/{QuestionId}/answers
+finish exam - /{UserName}/events/{EvntId} - post
+
+Results - /{UserName}/Registrations/{EvntId} - Get

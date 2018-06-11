@@ -1,0 +1,17 @@
+
+@question: eq1
+@answer: e1
+@option: e2
+
+@option: e1
+@question: eq2
+@answer: e2
+@option: e2
+@option: e1
+@option: e4
+
+@question: eq3
+@answer: e3
+@option: e33
+@option: e34
+@option: e3
