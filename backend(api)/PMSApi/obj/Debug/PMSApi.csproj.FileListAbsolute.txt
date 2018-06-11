@@ -41,6 +41,7 @@ C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\Pro
 C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSApi\obj\Debug\PMSApi.csprojResolveAssemblyReference.cache
 C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSApi\obj\Debug\PMSApi.dll
 C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSApi\obj\Debug\PMSApi.pdb
+<<<<<<< HEAD
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSApi\bin\PMSApi.dll
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSApi\bin\PMSApi.pdb
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSApi\bin\CommonServiceLocator.dll
@@ -84,3 +85,5 @@ C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSApi\bin\Syst
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSApi\obj\Debug\PMSApi.csprojResolveAssemblyReference.cache
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSApi\obj\Debug\PMSApi.dll
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSApi\obj\Debug\PMSApi.pdb
+=======
+>>>>>>> 04e4a0a2ddf0f9562175b14ddce41f24214a57bc

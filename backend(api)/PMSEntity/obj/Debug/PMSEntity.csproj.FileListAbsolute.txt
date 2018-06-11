@@ -3,8 +3,11 @@ C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\Pro
 C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSEntity\obj\Debug\PMSEntity.dll
 C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSEntity\obj\Debug\PMSEntity.pdb
 C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSEntity\obj\Debug\PMSEntity.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSEntity\bin\Debug\PMSEntity.dll
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSEntity\bin\Debug\PMSEntity.pdb
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSEntity\obj\Debug\PMSEntity.csprojResolveAssemblyReference.cache
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSEntity\obj\Debug\PMSEntity.dll
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSEntity\obj\Debug\PMSEntity.pdb
+=======
+>>>>>>> 04e4a0a2ddf0f9562175b14ddce41f24214a57bc
