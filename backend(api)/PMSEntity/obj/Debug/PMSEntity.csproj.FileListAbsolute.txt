@@ -1,5 +1,0 @@
-C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSEntity\bin\Debug\PMSEntity.dll
-C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSEntity\bin\Debug\PMSEntity.pdb
-C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSEntity\obj\Debug\PMSEntity.dll
-C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSEntity\obj\Debug\PMSEntity.pdb
-C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSEntity\obj\Debug\PMSEntity.csprojResolveAssemblyReference.cache

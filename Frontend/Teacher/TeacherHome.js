@@ -21,7 +21,7 @@ $(function(){
 				if(xmlhttp.status==200)
 				{
 					var result=xmlhttp.responseJSON;
-					var output='<table border=1 cellspacing=0 cellpadding=0><tr align=center ><td colspan=5 ><a href="CreateNewEvent.html">Create New Event</a></td></tr><tr><th>Event Name</th><th>Start Time</th><th>End Time</th><th></th><th></th></tr>';
+					var output='<table border=1 cellspacing=0 cellpadding=0><tr><th>Event Name</th><th>Start Time</th><th>End Time</th><th></th><th></th></tr>';
 					for(var i=0;i<result.length;i++)
 					{	var sttime = result[i].EvntSdt.split('T');
 						var endtime = result[i].EvntEdt.split('T');
