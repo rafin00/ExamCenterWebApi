@@ -1,11 +1,3 @@
-C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSInterface\bin\Debug\PMSInterface.dll
-C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSInterface\bin\Debug\PMSInterface.pdb
-C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSInterface\bin\Debug\PMSEntity.dll
-C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSInterface\bin\Debug\PMSEntity.pdb
-C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSInterface\obj\Debug\PMSInterface.csprojResolveAssemblyReference.cache
-C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSInterface\obj\Debug\PMSInterface.dll
-C:\Users\User\Google Drive\University\Study\ATP2\four_layer_webapi_with_crud\ProductManagementSystem\PMSInterface\obj\Debug\PMSInterface.pdb
-<<<<<<< HEAD
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSInterface\bin\Debug\PMSInterface.dll
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSInterface\bin\Debug\PMSInterface.pdb
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSInterface\bin\Debug\PMSEntity.dll
@@ -13,5 +5,3 @@ C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSInterface\bi
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSInterface\obj\Debug\PMSInterface.csprojResolveAssemblyReference.cache
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSInterface\obj\Debug\PMSInterface.dll
 C:\Users\User\Google Drive\University\Study\ATP2\up\backend(api)\PMSInterface\obj\Debug\PMSInterface.pdb
-=======
->>>>>>> 04e4a0a2ddf0f9562175b14ddce41f24214a57bc
