@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using PMSInterface;
 using PMSEntity;
-using System.Collections.Generic;
 using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
@@ -56,7 +55,7 @@ namespace PMSRepository
       {
 
           List<Answer> ans = context.Answers.Where(an => an.EvntId == evntid && an.StudentUserName == username).ToList();
-          int result = 0, total = ans.Count; float per = 0;
+          int result = 0, total = ans.Count; 
           IQuestionRepository qrepo = new QuestionRepository();
           foreach (Answer an in ans)
           {

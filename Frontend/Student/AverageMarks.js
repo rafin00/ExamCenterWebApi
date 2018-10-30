@@ -38,8 +38,12 @@ $(function(){
 				{
 					$('#body').html("</br>No records.");
 				}
+				else if(xmlhttp.status==204)
+				{
+					$('#body').html("</br>No records.");
+				}
 				else
-				{$('#body').html(xmlhttp.status + ": " + xmlhttp.statusText);
+				{$('#body').html("</br>"+xmlhttp.status + ": " + xmlhttp.statusText);
 					//$('#msg').html(xmlhttp.status + ": " + xmlhttp.statusText);
 				}
 			}

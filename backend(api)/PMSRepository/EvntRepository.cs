@@ -45,26 +45,21 @@ namespace PMSRepository
         public List<Evnt> GetEvntsByStudent(string UserName)
         {
             List<Registration> regs = new List<Registration>();
-            try
-            {
+            
                 regs = context.Registrations.ToList().FindAll(reg => reg.StudentUserName == UserName && reg.Result == (-1));
-            }
-            catch (Exception ex)
-            {
-            }
+           
                List<Evnt> evnts = new List<Evnt>();
 
             foreach (Registration reg in regs)
             {
-                try
-                {
+               
                     Evnt evnt = context.Evnts.SingleOrDefault(ev => ev.EvntId == reg.EvntId && ev.EvntEdt > DateTime.Now);
                     if (evnt != null)
                     {
                         evnts.Add(evnt);
                     }
-                }
-                catch (Exception ex) { }
+                
+               
             }        
             return evnts;
         }

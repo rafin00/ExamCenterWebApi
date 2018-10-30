@@ -268,8 +268,7 @@ namespace PMSApi.Controllers
             }
             else
             {
-                if(optionclass==null);
-                if(questions == null);
+                
                 opclsobj.options = options;
                 options = new List<Option>();
                 optionclass.Add(opclsobj);
@@ -457,8 +456,7 @@ namespace PMSApi.Controllers
              }
              else
              {
-                 if (optionclass == null) ;
-                 if (questions == null) ;
+                
                  opclsobj.options = options;
                  options = new List<Option>();
                  optionclass.Add(opclsobj);

@@ -40,7 +40,7 @@ namespace PMSRepository
 
       public int CheckIdenticalQuestion(Question ques, List<Option> options)
       {
-          bool exists = true; int cnt = 0;
+         int cnt = 0;
           Question q = context.Questions.SingleOrDefault(qu => qu.Answer == ques.Answer && ques.TeacherUserName==qu.TeacherUserName && qu.CourseName == ques.CourseName && qu.QuestionText == ques.QuestionText);
           if (q != null)
           {
